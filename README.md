@@ -73,8 +73,7 @@
 | Telegram | [发送消息](https://telegramprime.net/telegram-contact) |
 | Discord | [发送消息](https://telegramprime.net/discord-contact) |
 | Element | [发送消息](https://telegramprime.net/element-contact) |
-| 网站 (EN) | https://telegramprime.net/ |
-| 网站 (RU) | https://telegramprime.com/ |
+| 网站 | https://telegram-converter.com/ |
 
 ---
 
