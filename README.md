@@ -69,10 +69,10 @@
 
 | 渠道 | 链接 |
 |------|------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [发送消息](https://telegramprime.net/telegram-contact) |
-| Discord | [发送消息](https://telegramprime.net/discord-contact) |
-| Element | [发送消息](https://telegramprime.net/element-contact) |
+| Email | manager[@]telegram-converter.com |
+| Telegram | [发送消息](https://telegram-converter.com/telegram-contact) |
+| Discord | [发送消息](https://telegram-converter.com/discord-contact) |
+| Matrix | [发送消息](https://telegram-converter.com/matrix-contact) |
 | 网站 | https://telegram-converter.com/ |
 
 ---
