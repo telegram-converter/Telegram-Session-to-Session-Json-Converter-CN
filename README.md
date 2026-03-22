@@ -5,8 +5,8 @@
 
 ## 📚 多语言支持
 - 简体中文 – 本页  
-- English – [STSJ Converter EN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter)  
-- Русский – [STSJ Converter RU](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
+- English – [STSJ Converter EN](https://github.com/telegram-converter/Telegram-Session-to-Session-Json-Converter)  
+- Русский – [STSJ Converter RU](https://github.com/telegram-converter/Telegram-Session-to-Session-Json-Converter-RU)
 
 ---
 
