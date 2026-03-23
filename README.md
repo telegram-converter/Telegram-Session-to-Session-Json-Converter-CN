@@ -48,7 +48,7 @@
 
 ## 📥 下载
 
-- **始终最新版** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN/releases/latest)
+- **始终最新版** – [Website](https://telegram-converter.com/downloads/stsj/cn/latest)
 
 ---
 
@@ -79,6 +79,6 @@
 
 ## ☕️ 捐赠
 
-- **请给我们买杯咖啡** – [Click](https://nowpayments.io/donation/telegramprime)
+- **请给我们买杯咖啡** – [Click](https://nowpayments.io/donation/mcv)
   
 感谢您的支持！  
